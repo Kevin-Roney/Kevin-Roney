@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Kevin!)](https://git.io/typing-svg)
+
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kevin-Roney&show_icons=true&theme=dracula"/>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Roney&layout=compact"/>
