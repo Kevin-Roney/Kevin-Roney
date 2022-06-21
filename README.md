@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+plex+mono&size=30&duration=4969&color=F7A056&background=222222&center=true&vCenter=true&width=240&lines=Hi%2C+I'm+Kevin!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+plex+mono&size=30&duration=4969&color=F7A056&background=222222&center=true&vCenter=true&width=240&lines=Hi%2C+I'm+Kevin!)](https://www.linkedin.com/in/kevin-roney/)
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kevin-Roney&show_icons=true&theme=dracula"/>
 
