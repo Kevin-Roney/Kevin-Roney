@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Kevin!)](https://git.io/typing-svg)
-<span>
+<div>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kevin-Roney&show_icons=true&theme=dracula"/>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Roney&layout=compact"/>
-</span>
+</div>
 
 <!--
 **Kevin-Roney/Kevin-Roney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
